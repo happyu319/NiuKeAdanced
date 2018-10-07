@@ -1,0 +1,4 @@
+﻿  KMP.cpp
+e:\code\niukeadanced\kmp\kmp\kmp.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+e:\code\niukeadanced\kmp\kmp\kmp.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+  KMP.vcxproj -> E:\Code\NiuKeAdanced\KMP\Debug\KMP.exe
