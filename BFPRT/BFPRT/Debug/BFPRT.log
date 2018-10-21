@@ -1,0 +1,5 @@
+﻿  BFPRT.cpp
+e:\code\niukeadanced\bfprt\bfprt\bfprt.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+e:\code\niukeadanced\bfprt\bfprt\bfprt.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+e:\code\niukeadanced\bfprt\bfprt\bfprt.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+  BFPRT.vcxproj -> E:\Code\NiuKeAdanced\BFPRT\Debug\BFPRT.exe
